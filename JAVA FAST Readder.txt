@@ -60,7 +60,11 @@ public class Main{
     public static void main(String[] args) {
         
 	
-	
+	 FastReader fr= new FastReader();
+        
+        //int n=fr.nextInt();
+        //int k=fr.nextInt();
+        //int[] arr=Arrays.stream(fr.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
 	
 	
     }
